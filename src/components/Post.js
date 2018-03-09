@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Comment from './Comment';
 import Author from './Author';
 
+
 class Post extends Component {
   constructor(props) {
     super()
