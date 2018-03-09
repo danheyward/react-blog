@@ -50,6 +50,15 @@ h3 {
   font-family: "Spectral", serif;
 }
 
+.weather {
+  display: inline-block !important;
+}
+
+strong {
+  font-weight: 999;
+  font-size: 20px
+}
+
 
 .App {
   text-align: center;

@@ -5,7 +5,7 @@ import App from './components/App';
 import registerServiceWorker from './registerServiceWorker';
 
 const post = {
-  title: 'Why Beer Is Great',
+  title: 'WHY BEER IS GREAT, YO',
   authors: [
     'Ray Bradbury',
     'Shel Silverstein',
